@@ -1,4 +1,5 @@
 🧠 Churn Prediction with Artificial Neural Networks (ANN)
+
 Welcome to the Churn Prediction project! This repository contains a Python script that utilizes an Artificial Neural Network (ANN) to predict customer churn based on various features.
 
 ⚙️ Features
